@@ -1,2 +1,2 @@
 # ColchesterCrimeAnalysis
-Data Analysis project for Colchester crime data from UK Police using R
+Data Analysis Project for Colchester crime data and climate data from UK Police and local weather sources using R.
